@@ -1,0 +1,2 @@
+Cellular transmit stops at 19 msgs. Not follower-bit affected
+

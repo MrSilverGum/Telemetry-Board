@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "xbeeconnector")(type "Legacy")(uri "${KIPRJMOD}/xbeeconnector.lib")(options "")(descr ""))
+  (lib (name "generalfix")(type "Legacy")(uri "/home/a731/Dokument/KiCAD/general_library/general.lib")(options "")(descr ""))
+  (lib (name "Telemetry-Board-rescue")(type "Legacy")(uri "${KIPRJMOD}/Telemetry Board-rescue.lib")(options "")(descr ""))
+  (lib (name "Telemetry Board-rescue")(type "KiCad")(uri "${KIPRJMOD}/Telemetry Board-rescue.kicad_sym")(options "")(descr ""))
+)
